@@ -1,3 +1,5 @@
+<img src="https://pngtree.com/free-backgrounds-photos/web-developer" width="100%" />
+
 👋 Hi, I'm Abdullah!
 
 I'm a frontend developer currently doing an internship at Elect96, where I work on building responsive and user-friendly web interfaces.
