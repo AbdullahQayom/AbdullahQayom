@@ -7,7 +7,7 @@ I'm a frontend developer currently doing an internship at Elect96, where I work 
 
 🚀 What I'm Working On
 
-Learning React.js and modern frontend development also Tailwind CSS
+Learning React.js and modern frontend development with Tailwind CSS(responsive design)
 
 Exploring real-world projects in my internship
 
