@@ -25,6 +25,8 @@ Become a strong Frontend Developer
 
 Build clean, optimized, and scalable UI components
 
+and usefull code.
+
 Learn more advanced concepts in React and modern tools
 
 📫 Contact
