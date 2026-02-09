@@ -13,7 +13,7 @@ Exploring real-world projects in my internship
 
 🧑‍💻 Tech I Know
 
-Frontend: HTML, CSS, JavaScript, Tailwind CSS, React (learning)
+Frontend: HTML, CSS, JavaScript, Tailwind CSS, React + TypeScript (learning)
 
 Backend: Django (basic level)
 
